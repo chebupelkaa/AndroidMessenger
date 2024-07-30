@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/new_chat"
+        android:title="New chat"
+        android:icon="@drawable/baseline_person_search_24"/>
+
+    <item android:id="@+id/chats"
+        android:title="Chats"
+        android:icon="@drawable/baseline_email_24"/>
+
+    <item android:id="@+id/profie_item"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"/>
+
+
+
+</menu>
